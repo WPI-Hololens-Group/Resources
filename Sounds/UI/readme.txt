@@ -1,0 +1,1 @@
+This folder is for all sounds associated with the Packed Bed Reactor app. Spatial folder is for the soundtrack or overall, underlying sounds, object is for object sounds, ambient for ambient sounds and UI is for user interface sounds.
